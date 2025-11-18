@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevDilip28/DevDilip28/main/readme.png" width="100%" alt="Profile Banner"/>
-</p>
 
 <h1 align="center">👋 Hey, I'm <strong>Dilip Asdeo</strong></h1>
 <h3 align="center">Full-Stack Developer</h3>
