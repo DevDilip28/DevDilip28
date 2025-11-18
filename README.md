@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <strong>Dilip</strong></h1>
-<h3 align="center">Full-Stack Developer • Modern Web • Next.js • Node.js • Python</h3>
+<h3 align="center">Full-Stack Developer </h3>
 
 <p align="center">
   I build clean, modern, and scalable web applications.<br/>
