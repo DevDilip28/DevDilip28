@@ -1,24 +1,35 @@
-<h1 align="center">👋 Hey, I'm <strong>Dilip</strong></h1>
-<h3 align="center">Full-Stack Developer </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevDilip28/DevDilip28/main/readme.png" width="100%" alt="Profile Banner"/>
+</p>
+
+<h1 align="center">👋 Hey, I'm <strong>Dilip Asdeo</strong></h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  I build clean, modern, and scalable web applications.<br/>
-  Focused on mastering full-stack development & creating real-world products.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me  
 
-- 🧭 Exploring **Next.js**, **Node.js internals**, and **Python for AI**
-- 🛠️ Love building full-stack apps with a product-first mindset  
-- 🎯 Goal: Become internship-ready by 2026  
-- 🌐 Interested in: Web Dev, AI, Open Source, Cloud  
-- ⚙️ Crafting modern UIs, clean APIs, and production-ready systems  
+- 🧭 Exploring **Next.js**, **Node.js internals**, and **Python for AI**  
+- 🚀 Passionate about building clean & scalable web applications  
+- 🧠 Love understanding system architecture & backend internals  
+- 🎯 Goal: Become internship-ready by **2026**  
+- 🌐 Interested in modern Web Dev, AI, Open Source, & Cloud  
+- 📬 Reach me at: **dilipasdeo028@gmail.com**
 
 ---
 
-## 🧩 Tech Stack (Core Skills Only)
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevDilip28&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧩 Tech Stack (Core Skills)
 
 ### **Languages**
 <p>
@@ -53,7 +64,7 @@ A production-ready DSA practice platform with streaks, achievements, playlists, 
 ---
 
 ### 🔹 **DropVault**  
-A modern Dropbox-style cloud storage app building with Next.js + Neon + Drizzle ORM.
+A modern Dropbox-style cloud storage app built using Next.js + Neon + Drizzle ORM.
 
 ➡️ **Repo:** https://github.com/DevDilip28/DropVault  
 
@@ -72,7 +83,7 @@ A modern Dropbox-style cloud storage app building with Next.js + Neon + Drizzle 
 
 ---
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:dilipasdeo028@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
@@ -82,4 +93,6 @@ A modern Dropbox-style cloud storage app building with Next.js + Neon + Drizzle 
 
 ---
 
-<p align="center">✨ Thanks for visiting — always learning, always building. ✨</p>
+<p align="center">
+  ✨ Thanks for visiting — always learning, always building. ✨
+</p>
