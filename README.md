@@ -1,94 +1,89 @@
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/DevDilip28/AlGoHolic/main/AlgoHolic%20img.png" width="100%" alt="GitHub Banner"/>
-</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevDilip28/DevDilip28/main/readme.png" width="100%" alt="Profile Banner"/>
+</p>
 
-<h1 align="center">👋 Hi, I'm Dilip Asdeo</h1>
-<h3 align="center">Full-Stack Developer | DSA Practitioner | Generative AI Learner</h3>
+<h1 align="center">👋 Hey, I'm <strong>Dilip</strong></h1>
+<h3 align="center">Full-Stack Developer • Modern Web • Next.js • Node.js • Python</h3>
 
 <p align="center">
-  🚀 Passionate about building real-world products, mastering DSA,  
-  and exploring the intersection of Web Development & Generative AI.
+  I build clean, modern, and scalable web applications.<br/>
+  Focused on mastering full-stack development & creating real-world products.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🔭 Currently building **AlgoHol!c** — A production-ready DSA platform  
-- 🌱 Learning **Node.js internals**, **Prisma**, and **Generative AI**
-- 🎯 Goal: Crack a strong **internship in 2026**  
-- 🧠 Love solving DSA and learning system-level concepts  
-- 🤝 Open-source contributor (looking to contribute more consistently)
-- ⚡ Fun fact: I love creating projects that feel like real products
+- 🧭 Exploring **Next.js**, **Node.js internals**, and **Python for AI**
+- 🛠️ Love building full-stack apps with a product-first mindset  
+- 🎯 Goal: Become internship-ready by 2026  
+- 🌐 Interested in: Web Dev, AI, Open Source, Cloud  
+- ⚙️ Crafting modern UIs, clean APIs, and production-ready systems  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech Stack (Core Skills Only)
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" height="50"/>
+</p>
 
 ### **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FramerMotion-000000?logo=framer&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="50"/>
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeonDB-00E38C?logo=postgresql&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
 </p>
 
-### **Other Tools**
+### **Database & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" height="50"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🌟 Featured Projects
 
-### ⭐ **AlgoHol!c**
-A fully production-ready DSA Practice Platform with curated problems, streaks, achievements, and an interactive code editor.  
-🔗 Live: https://algoholic.site  
-🔗 Repo: https://github.com/DevDilip28/AlGoHolic
+### 🔹 **AlgoHol!c**  
+A production-ready DSA practice platform with streaks, achievements, playlists, and a fast code editor.
 
----
-
-### ⭐ **DropVault**
-Dropbox-style file manager with secure uploads, trash / restore, and folder architecture using Drizzle ORM + Neon.  
-🔗 Repo: https://github.com/DevDilip28/DropVault
+➡️ **Live:** https://algoholic.site  
+➡️ **Repo:** https://github.com/DevDilip28/AlGoHolic  
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 **DropVault**  
+A modern Dropbox-style cloud storage app building with Next.js + Neon + Drizzle ORM.
+
+➡️ **Repo:** https://github.com/DevDilip28/DropVault  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevDilip28&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDilip28&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDilip28&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDilip28&layout=compact&theme=transparent&hide_border=true" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDilip28&theme=github-dark-blue&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevDilip28&theme=transparent&hide_border=true" height="170">
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:dilipasdeo028@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/ItsDilip"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/DevDilip28"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:dilipasdeo028@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://x.com/ItsDilip"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://github.com/DevDilip28"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
 </p>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center">✨ Thanks for visiting — always learning, always building. ✨</p>
