@@ -10,10 +10,8 @@
 
 ## 🌟 About Me  
 
-- 🧭 Exploring **Next.js**, **Node.js internals**, and **Python for AI**  
 - 🚀 Passionate about building clean & scalable web applications  
-- 🧠 Love understanding system architecture & backend internals  
-- 🎯 Goal: Become internship-ready by **2026**  
+- 🧠 Love understanding system architecture & backend internals   
 - 🌐 Interested in modern Web Dev, AI, Open Source, & Cloud  
 - 📬 Reach me at: **dilipasdeo028@gmail.com**
 
