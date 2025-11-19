@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Next.js+%7C+React+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving" />
 </p>
 
 ---
@@ -14,13 +14,6 @@
 - 🧠 Love understanding system architecture & backend internals   
 - 🌐 Interested in modern Web Dev, AI, Open Source, & Cloud  
 - 📬 Reach me at: **dilipasdeo028@gmail.com**
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevDilip28&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
