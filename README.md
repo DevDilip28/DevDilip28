@@ -182,30 +182,3 @@
 ➡️ **Live:** https://dropvault.site  
 ➡️ **Repo:** https://github.com/DevDilip28/DropVault
 
----
-
-# 🧠 Currently Learning & Exploring
-
-```text
-Generative AI
-    ├── LLMs & Transformers
-    ├── Prompt Engineering
-    ├── Embeddings & Vector Search
-    ├── RAG
-    ├── AI Agents
-    ├── LangChain
-    ├── LangGraph
-    ├── Tool Calling
-    ├── MCP
-    ├── A2A
-    └── Google ADK
-
-Software Engineering
-    ├── System Design
-    ├── Backend Architecture
-    ├── Microservices
-    ├── WebSockets
-    ├── Redis
-    ├── Docker
-    ├── Kubernetes
-    └── CI/CD
