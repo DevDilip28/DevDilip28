@@ -1,184 +1,152 @@
-<h1 align="center">👋 Hey, I'm <strong>Dilip Asdeo</strong></h1>
+<h1 align="center">Hey, I'm Dilip Asdeo 👋</h1>
 
 <h3 align="center">
-  Software Engineer | Full-Stack Developer | GenAI & Agentic AI Builder
+  Software Engineer • Full-Stack Developer • GenAI & Agentic AI Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+%7C+GenAI+Developer;Building+AI-Powered+Applications;RAG+%7C+Agents+%7C+LangGraph;Always+Learning+%26+Building" />
+  <a href="https://dilip-portfolio-six.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/DevDilip28">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:dilipasdeo028@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=700&lines=Building+GenAI+%26+Agentic+AI+Systems;Full-Stack+Developer;RAG+%7C+AI+Agents+%7C+LangGraph;Building+Developer+Tools+%26+AI+Workflows" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Software Engineer focused on **Full-Stack Development & Generative AI**
-- 🤖 Building **RAG systems, AI Agents, and AI-powered applications**
-- 🧠 Interested in **LLMs, Agentic AI, AI workflows, and system architecture**
-- ⚡ Experienced with **React, Next.js, Node.js, Python, FastAPI & PostgreSQL**
-- 🔗 Exploring modern AI protocols and agent frameworks like **MCP, A2A & Google ADK**
-- 🏗️ Love building scalable backend systems, APIs, workflows, and developer tools
-- 🌐 Interested in **Open Source, Cloud, DevOps & AI Engineering**
-- 📬 Reach me at: **dilipasdeo028@gmail.com**
+I'm a Software Engineer focused on building **Full-Stack applications, GenAI systems, and Agentic AI tools**.
+
+- 🤖 Building AI Agents, RAG systems & AI-powered applications
+- 🧠 Working with LLMs, LangGraph, LangChain & MCP
+- ⚙️ Building backend systems with Python, FastAPI & Node.js
+- 🌐 Building modern web applications with React & Next.js
+- 🏗️ Interested in AI infrastructure, system design & developer tools
+- 🚀 Currently exploring Agentic AI and autonomous workflows
 
 ---
 
-# 🧩 Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,sql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,sql" height="45"/>
 </p>
 
----
-
-## 🎨 Frontend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45"/>
 </p>
 
-**React.js • Next.js • Tailwind CSS • Framer Motion**
-
----
-
-## ⚙️ Backend & APIs
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="45"/>
 </p>
 
-**Node.js • Express.js • FastAPI • REST APIs • GraphQL • WebSockets • JWT Authentication**
+### GenAI & Agentic AI
 
----
+**LangChain • LangGraph • RAG • AI Agents • MCP • Tool Calling •  
+LLM APIs • Embeddings • Vector Search • Prompt Engineering**
 
-## 🤖 Generative AI & Agentic AI
-
-### 🧠 LLM & AI
-
-**LLMs • LLM APIs • Transformers • Prompt Engineering • Embeddings • Semantic Search**
-
-### 🔗 RAG
-
-**RAG • Document Processing • Chunking • Vector Search • FAISS • Hugging Face Embeddings**
-
-### 🦜 AI Frameworks
-
-**LangChain • LangGraph • AI Agents • Tool Calling • Structured Outputs**
-
-### 🤝 Agentic AI & Protocols
-
-**MCP (Model Context Protocol) • A2A (Agent2Agent) • Google ADK**
-
-### ⚡ AI Infrastructure
-
-**Groq • OpenAI APIs • Hugging Face**
-
----
-
-## 🗄️ Databases & ORMs
+### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,linux,git,github" height="45"/>
 </p>
 
-**PostgreSQL • MongoDB • Redis • Prisma ORM • Drizzle ORM**
+**PostgreSQL • MongoDB • Redis • FAISS • Docker • Kubernetes •  
+Git • GitHub • CI/CD • Monorepo Architecture**
 
 ---
 
-## ☁️ DevOps & Engineering
+# 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" height="50"/>
-</p>
+## 🔥 ForgeAI
 
-**Docker • Kubernetes • Git • GitHub • Linux • CI/CD • TurboRepo • Monorepo Architecture • Microservices**
+**Autonomous CLI Coding Agent powered by LangGraph & MCP**
 
----
+ForgeAI is an AI-powered coding agent designed to plan, execute and manage software development tasks directly from the terminal.
 
-# 🌟 Featured Projects
+**Built with:**  
+`Python` `LangGraph` `LangChain` `MCP` `SQLite` `OpenAI`
 
-## 🔹 ContextIQ — AI Knowledge Assistant
+### Highlights
 
-> A NotebookLM-inspired GenAI knowledge assistant for interacting with multiple sources.
+- 🧠 Task planning & multi-step execution
+- 🔧 Intelligent tool calling
+- 🔌 MCP server & tool integration
+- 💾 Persistent agent context with SQLite
+- 🏗️ Architect / Code / Ask modes
+- 👤 Human-in-the-loop safety
+- 📊 Real-time execution metrics
+- 💻 Terminal-first developer experience
 
-**Tech:** Python, FastAPI, Next.js, PostgreSQL, LangChain, LangGraph, FAISS, Hugging Face Embeddings, Groq
-
-### Features
-
-- 📄 PDF document ingestion
-- 🌐 Website content ingestion
-- ▶️ YouTube content ingestion
-- 📝 AI-powered summaries
-- 💬 Context-aware AI chat
-- 🔎 Semantic search using vector embeddings
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔐 JWT authentication
-- 🗃️ PostgreSQL backend
-
-➡️ **Repo:** https://github.com/DevDilip28/ContextIQ
+➡️ **Repository:**  
+https://github.com/DevDilip28/ForgeAI
 
 ---
 
-## 🔹 TriggerFlow — Visual Workflow Automation Platform
+## ⚡ TriggerFlow
 
-> A visual workflow automation platform for designing and executing trigger → action pipelines.
+**Visual Workflow Automation Platform**
 
-**Tech:** React, TypeScript, React Flow, Node.js, Express.js, MongoDB, WebSockets, TurboRepo
+TriggerFlow is a workflow automation platform for creating and executing event-driven **trigger → action** pipelines.
 
-### Features
+**Built with:**  
+`React` `TypeScript` `React Flow` `Node.js` `Express.js` `MongoDB` `WebSockets` `TurboRepo`
+
+### Highlights
 
 - 🔀 Visual workflow builder
 - ⏱️ Time-based triggers
 - 💰 Price-based triggers
-- 📧 Email actions
-- 📈 Automated trading actions
-- ⚡ Event-driven backend
-- 🔌 Third-party API integrations
+- 📧 Automated email actions
+- 📈 Trading automation
+- ⚡ Event-driven architecture
 - 🔄 Real-time updates with WebSockets
-- 🏗️ Scalable TurboRepo monorepo architecture
+- 🏗️ TurboRepo monorepo architecture
 
- ➡️ **Live:** https://trigger-flow-client.vercel.app/
- ➡️ **Repo:** https://github.com/DevDilip28/TriggerFlow
+➡️ **Live:**  
+https://trigger-flow-client.vercel.app/
 
----
-
-## 🔹 AlgoHolic — DSA Practice Platform
-
-> A LeetCode-style platform designed for practicing Data Structures & Algorithms.
-
-**Tech:** React, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQL
-
-### Features
-
-- 🧩 DSA problem solving
-- 💻 Online code editor
-- 📊 Progress tracking
-- 🔥 Streak system
-- 🏆 Achievements
-- 🔐 JWT authentication
-- 🚀 REST APIs
-
-➡️ **Live:** https://algoholic.site  
-➡️ **Repo:** https://github.com/DevDilip28/AlGoHolic
+➡️ **Repository:**  
+https://github.com/DevDilip28/TriggerFlow
 
 ---
 
-## 🔹 DropVault — Cloud Storage Platform
+## 📚 Currently Exploring
 
-> A modern Dropbox-inspired cloud storage application.
+**Agentic AI • MCP • LangGraph • AI Systems • System Design •  
+LLM Applications • Open Source**
 
-**Tech:** Next.js, Neon PostgreSQL, Drizzle ORM
+---
 
-### Features
+## 📫 Connect With Me
 
-- 📁 File management
-- ☁️ Cloud-based storage
-- 🔐 Authentication
-- ⚡ Modern responsive UI
-- 🗄️ PostgreSQL-backed architecture
+<p>
+  <a href="https://dilip-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:dilipasdeo028@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DevDilip28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-➡️ **Live:** https://dropvault.site  
-➡️ **Repo:** https://github.com/DevDilip28/DropVault
+---
 
+<p align="center">
+  <i>Build. Learn. Ship. Repeat. 🚀</i>
+</p>
